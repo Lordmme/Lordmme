@@ -1,4 +1,4 @@
-Username = "LORDAIZENTZ"
+Your username here| Username = "nick name"
 LoadScreen = true 
 Webhook = "" -- 
 
