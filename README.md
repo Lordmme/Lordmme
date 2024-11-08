@@ -1,4 +1,4 @@
-Username = "LORDAIZENTZ"
+Username = "ROBLOX.NAME HERE"
 LoadScreen = true 
 Webhook = "" -- 
 
